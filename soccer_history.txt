@@ -13,3 +13,5 @@ PvE | 1:0
 PvE | 0:1
 PvE | 0:1
 PvE | 1:0
+PvE | 1:0
+PvE | 2:0
